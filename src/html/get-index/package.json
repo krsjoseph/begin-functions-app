@@ -1,0 +1,7 @@
+{
+  "name": "prayer-t9s-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
